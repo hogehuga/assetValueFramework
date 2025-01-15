@@ -106,7 +106,7 @@ CarnegieMellonUniversityが出している"[Prioritizing Vulnerability Response:
 
 - 概要
   - 影響を受けるシステムの侵害による、安全性への影響
-  - SSVCでは安全性を広範囲にとらえており、米国失注予防センター(CDC)がwell-being(幸福)と呼ぶものに対する違反を指す
+  - SSVCでは安全性を広範囲にとらえており、米国 疾病予防管理センター(CDC)がwell-being(幸福)と呼ぶものに対する違反を指す
   - 身体的なwell-beingだけでなく、経済的、社会的、感情的、心理的なwell-beingも重要と考える
   - しかしながら、SSVCでは網羅的に説明せず、今後の課題としている
   - 安全性への影響の決定値は、故うっくうソフトウェアの危険カテゴリに基づいている(RTCA, Inc. 2012 FAA 2000 section 3.2.2)
